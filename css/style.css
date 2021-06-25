@@ -1,0 +1,182 @@
+
+.h1classone{
+  color: blue;
+  font-family: roboto;
+}
+
+.headerlay1{
+  background-color: #7739f2;
+  min-height: 50px
+}
+
+.headertext{
+  color: white;
+  font-family: roboto;
+  text-align: center;
+  
+}
+
+.container1{
+  overflow: hidden;
+
+}
+
+.common1{
+  min-height: 300px;
+}
+.blog1{
+  background-color: thistle;
+  width: 60%;
+  float: left;
+  padding-right: 5%;
+  padding-left: 5%;
+ 
+}
+
+.sidebar1{
+  background-color: wheat;
+  width: 26%;
+  float: right;
+  padding-right: 2%;
+  padding-left: 2%;
+
+}
+.footer1{
+  min-height: 80px;
+  background-color: black;
+}
+
+/*Layout:2*/
+.commonlay2{
+  min-height: 500px;
+}
+
+.bloglay2{
+  background-color: antiquewhite;
+  width: 40%;
+  float: left;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.midllelay2{
+  background-color: aqua;
+  width: 20%;
+  float: left;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.sidebarlay1{
+  background-color: thistle;
+  width: 16%;
+  float: left;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+/* Laypout:3 */
+
+.uppermenu1{
+  background-color: #f45906;
+  min-height: 40px;
+}
+
+.menubarl3{
+  background-color: #01215c;
+  min-height: 50px;
+}
+.navbarl3{
+  background-color: gray;
+  min-height: 250px;
+}
+
+#generalcontact{
+  background-color: greenyellow;
+  min-height: 300px;
+  min-width: 38%;
+  margin: 100px 1% 10px 10%;
+  float: left;
+  
+}
+
+#interiordesign{
+  background-color: khaki;
+  min-height: 300px;
+  min-width: 38%;
+  margin: 100px 10% 10px 1%;
+  float: left;
+
+}
+
+#factoryconstruction{
+  background-color: lightblue;
+  min-height: 300px;
+  min-width: 38%;
+  margin: 10px 1% 100px 10%;
+  float: left;
+
+}
+#buildingconstruction{
+  background-color: palegreen;
+  min-height: 300px;
+  min-width: 38%;
+  margin: 10px 10% 100px 1%;
+  float: left;
+}
+
+#footerupperl3{
+  background-color: #f45906;
+  min-height: 150px;
+}
+#footerlowerl3{
+  background-color: #01215c;
+  min-height: 400px;
+}
+/*practice Html home to html file paths from w3schools html tutorials.*/
+.head1{
+  font-family: roboto;
+  color: deeppink;
+}
+.point{
+  color: blue;
+  font-size: 25pt;
+}
+.example{
+  color: red;
+  font-family: roboto;
+  font-size: 15pt;
+}
+
+.htmlcolor{
+  background-color: yellow;
+  color: red;
+  border: 5px solid green ;
+}
+.linkcolor:link{
+  color: brown;
+  text-decoration: none;
+}
+.linkcolor:visited{
+  color: chartreuse;
+}
+.linkcolor:hover{
+  color: darkgreen;
+  text-decoration: underline;
+}
+.linkcolor:active{
+  color: darkorange;
+  text-decoration: underline;
+}
+.imagefloat{
+  float: right;
+  width: 150px;
+}
+
+.bgimage{
+  min-height: 300px;
+  background-image: url('/images/construction.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
